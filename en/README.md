@@ -9,7 +9,7 @@ description: >-
 
 ### Grass Root
 
-As a grass root platform, the only source of credibility is the quality of the ideas presented. This dynamic is a commitment of it's own to Colombian Society. Others, like[ www.foraus.ch](https://www.foraus.ch), have proven by example the social value to policy making of engaged citizens: Think Tank Colombia is a home for young professionals who actively want to shape the future of their country.
+As a grass root platform, the only source of credibility is the quality of the ideas presented. This dynamic is a commitment of it's own to Colombian Society. Others, like [www.foraus.ch](https://www.foraus.ch), have proven by example the social value to policy making of engaged citizens: Think Tank Colombia is a home for young professionals who actively want to shape the future of their country.
 
 ### Anonymity
 
